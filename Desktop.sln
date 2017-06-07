@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Desktop", "Desktop\Desktop.csproj", "{34F90FA6-35AA-4C42-A8E7-33630C7E1EB3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model", "Movie\Model.csproj", "{2F8775CF-A1EB-4801-834F-69CA201A2F42}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ViewModels", "ViewModels\ViewModels.csproj", "{2B70E9BB-B6D2-4D78-96B2-9131DF965A98}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34F90FA6-35AA-4C42-A8E7-33630C7E1EB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34F90FA6-35AA-4C42-A8E7-33630C7E1EB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34F90FA6-35AA-4C42-A8E7-33630C7E1EB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34F90FA6-35AA-4C42-A8E7-33630C7E1EB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F8775CF-A1EB-4801-834F-69CA201A2F42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F8775CF-A1EB-4801-834F-69CA201A2F42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F8775CF-A1EB-4801-834F-69CA201A2F42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F8775CF-A1EB-4801-834F-69CA201A2F42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B70E9BB-B6D2-4D78-96B2-9131DF965A98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B70E9BB-B6D2-4D78-96B2-9131DF965A98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B70E9BB-B6D2-4D78-96B2-9131DF965A98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B70E9BB-B6D2-4D78-96B2-9131DF965A98}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
